@@ -14,7 +14,7 @@ This guidebook covers the following essential topics:
 
 ### 2. **Heart Disease Dataset Understanding**
 - Understanding the `heartdisease.csv` dataset, its features, and target variable for predictive modeling.
-- Learn More: [Heart Disease Dataset Overview](https://www.kaggle.com/ronitf/heart-disease-uci)
+- Learn More: [Heart Disease Dataset Overview](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ### 3. **Data Visualization Part 1**
 - Visualizing the dataset to explore feature relationships and distributions.
